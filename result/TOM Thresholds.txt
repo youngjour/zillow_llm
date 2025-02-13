@@ -1,0 +1,123 @@
+CH_0_group_0: 0 to 21 Days
+CH_0_group_1: 21 to 172 Days
+CH_0_group_2: 174 to 350 Days
+CH_1_group_0: 0 to 20 Days
+CH_1_group_1: 20 to 150 Days
+CH_1_group_2: 152 to 337 Days
+NY_0_group_0: 0 to 54 Days
+NY_0_group_1: 55 to 270 Days
+NY_0_group_2: 272 to 359 Days
+NY_1_group_0: 0 to 55 Days
+NY_1_group_1: 55 to 280 Days
+NY_1_group_2: 280 to 365 Days
+LA_0_group_0: 0 to 2 Days
+LA_0_group_1: 2 to 128 Days
+LA_0_group_2: 128 to 343 Days
+LA_1_group_0: 0 to 4 Days
+LA_1_group_1: 4 to 150 Days
+LA_1_group_2: 153 to 353 Days
+
+
+
+CH_0_group_0: 0 to 28 Days
+CH_0_group_1: 29 to 129 Days
+CH_0_group_2: 129 to 350 Days
+CH_1_group_0: 0 to 27 Days
+CH_1_group_1: 27 to 110 Days
+CH_1_group_2: 110 to 337 Days
+NY_0_group_0: 0 to 64 Days
+NY_0_group_1: 64 to 241 Days
+NY_0_group_2: 241 to 359 Days
+NY_1_group_0: 0 to 71 Days
+NY_1_group_1: 71 to 247 Days
+NY_1_group_2: 247 to 365 Days
+LA_0_group_0: 0 to 5 Days
+LA_0_group_1: 5 to 92 Days
+LA_0_group_2: 92 to 343 Days
+LA_1_group_0: 0 to 7 Days
+LA_1_group_1: 7 to 110 Days
+LA_1_group_2: 110 to 353 Days
+
+
+
+CH_0_group_0: 0 to 32 Days
+CH_0_group_1: 32 to 106 Days
+CH_0_group_2: 106 to 350 Days
+CH_1_group_0: 0 to 32 Days
+CH_1_group_1: 32 to 93 Days
+CH_1_group_2: 93 to 337 Days
+NY_0_group_0: 0 to 70 Days
+NY_0_group_1: 70 to 219 Days
+NY_0_group_2: 220 to 359 Days
+NY_1_group_0: 0 to 81 Days
+NY_1_group_1: 81 to 235 Days
+NY_1_group_2: 235 to 365 Days
+LA_0_group_0: 0 to 7 Days
+LA_0_group_1: 7 to 77 Days
+LA_0_group_2: 77 to 343 Days
+LA_1_group_0: 0 to 10 Days
+LA_1_group_1: 10 to 92 Days
+LA_1_group_2: 92 to 353 Days
+
+
+
+CH_0_group_0: 0 to 35 Days
+CH_0_group_1: 35 to 89 Days
+CH_0_group_2: 89 to 350 Days
+CH_1_group_0: 0 to 35 Days
+CH_1_group_1: 35 to 82 Days
+CH_1_group_2: 82 to 337 Days
+NY_0_group_0: 0 to 76 Days
+NY_0_group_1: 76 to 196 Days
+NY_0_group_2: 196 to 359 Days
+NY_1_group_0: 0 to 90 Days
+NY_1_group_1: 90 to 222 Days
+NY_1_group_2: 222 to 365 Days
+LA_0_group_0: 0 to 9 Days
+LA_0_group_1: 9 to 64 Days
+LA_0_group_2: 64 to 343 Days
+LA_1_group_0: 0 to 14 Days
+LA_1_group_1: 15 to 83 Days
+LA_1_group_2: 83 to 353 Days
+
+
+
+CH_0_group_0: 0 to 37 Days
+CH_0_group_1: 37 to 77 Days
+CH_0_group_2: 77 to 350 Days
+CH_1_group_0: 0 to 37 Days
+CH_1_group_1: 37 to 74 Days
+CH_1_group_2: 74 to 337 Days
+NY_0_group_0: 0 to 83 Days
+NY_0_group_1: 83 to 169 Days
+NY_0_group_2: 171 to 359 Days
+NY_1_group_0: 0 to 97 Days
+NY_1_group_1: 97 to 212 Days
+NY_1_group_2: 212 to 365 Days
+LA_0_group_0: 0 to 12 Days
+LA_0_group_1: 12 to 56 Days
+LA_0_group_2: 56 to 343 Days
+LA_1_group_0: 0 to 20 Days
+LA_1_group_1: 20 to 74 Days
+LA_1_group_2: 75 to 353 Days
+
+
+
+CH_0_group_0: 0 to 40 Days
+CH_0_group_1: 40 to 69 Days
+CH_0_group_2: 69 to 350 Days
+CH_1_group_0: 0 to 40 Days
+CH_1_group_1: 40 to 68 Days
+CH_1_group_2: 68 to 337 Days
+NY_0_group_0: 0 to 89 Days
+NY_0_group_1: 89 to 151 Days
+NY_0_group_2: 151 to 359 Days
+NY_1_group_0: 0 to 104 Days
+NY_1_group_1: 104 to 196 Days
+NY_1_group_2: 197 to 365 Days
+LA_0_group_0: 0 to 16 Days
+LA_0_group_1: 16 to 50 Days
+LA_0_group_2: 50 to 343 Days
+LA_1_group_0: 0 to 26 Days
+LA_1_group_1: 26 to 65 Days
+LA_1_group_2: 65 to 353 Days
