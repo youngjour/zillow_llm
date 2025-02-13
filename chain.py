@@ -6,8 +6,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
-from meanings import meanings_to_str
 from const import sales_speed
+from meanings import meanings_to_str
 
 load_dotenv()
 
@@ -78,9 +78,7 @@ class BinaryTOM(BaseModel):
 
     TOM: Annotated[
         str,
-        Field(
-            description="Determine if the property was sold fast: 'yes' or 'no'."
-        ),
+        Field(description="Determine if the property was sold fast: 'yes' or 'no'."),
     ]
     REASON: Annotated[
         str, Field(description="Provide a brief reason for the decision.")
