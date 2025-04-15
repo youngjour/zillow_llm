@@ -25,7 +25,7 @@ DROPBOX_FILE_LINKS = {
     "7.gpt_cluster.h5": "https://www.dropbox.com/scl/fi/kxn7pzxblj5kxtf295noi/7.-gpt_cluster.h5?rlkey=oz634zfm4erlo5emmvt6tmmmd&dl=1"
 }
 
-def download_file(filename, save_dir="../dataset/raw"):
+def download_file(filename, save_dir="../dataset/raw/"):
     """Download a file from Dropbox using its mapped name."""
     os.makedirs(save_dir, exist_ok=True)
     filepath = os.path.join(save_dir, filename)
