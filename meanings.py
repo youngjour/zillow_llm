@@ -297,16 +297,56 @@ ch_sh_fast_25 = {
         "resell-value": "Dormered homes often have higher resale values due to their increased space and aesthetic appeal.",
         "safety/privacy": "Additional windows may raise privacy concerns, but can also enhance the overall safety of the home by providing better visibility.",
     },
-    # "trex"
-    # "sunroom"
-    # "sauganash"
-    # "wifi"
-    # "greenview"
-    # "2018"
-    # "rehab"
-    # "walkable"
-    # "cta"
-    # "youre"
+    "trex": {
+        "convenience": "TREX decking is low-maintenance and durable, offering homeowners ease of use and less upkeep.",
+        "resell-value": "Homes with TREX materials are often seen as modern and well-maintained, which can boost resale value.",
+        "safety/privacy": "TREX decking is slip-resistant and splinter-free, enhancing safety for outdoor spaces."
+    },
+    "sunroom": {
+        "convenience": "A sunroom adds versatile indoor-outdoor living space, increasing comfort and lifestyle appeal.",
+        "resell-value": "Sunrooms are attractive features that can raise property value, especially in climates like Chicago's.",
+        "safety/privacy": "Well-designed sunrooms can offer private yet light-filled areas, enhancing both enjoyment and security."
+    },
+    "sauganash": {
+        "convenience": "A desirable residential neighborhood with good schools and amenities, ideal for family living.",
+        "resell-value": "Properties in Sauganash typically retain strong resale value due to the area's reputation and stability.",
+        "safety/privacy": "Known for its quiet streets and community feel, Sauganash provides a sense of security and privacy."
+    },
+    "wifi": {
+        "convenience": "Mention of WiFi highlights digital readiness, catering to modern work-from-home and connected lifestyles.",
+        "resell-value": "Homes with strong digital infrastructure are increasingly valuable in today's tech-driven market.",
+        "safety/privacy": "Secure home networks can support smart home features that enhance personal and property safety."
+    },
+    "greenview": {
+        "convenience": "Refers to a peaceful street or scenic view that contributes to a relaxing living environment.",
+        "resell-value": "A green view or location on Greenview Avenue can enhance perceived value and curb appeal.",
+        "safety/privacy": "Scenic surroundings and tree-lined streets can provide both physical privacy and psychological comfort."
+    },
+    "2018": {
+        "convenience": "Indicates recent construction or renovation year, suggesting modern amenities and fewer immediate repairs.",
+        "resell-value": "Newer updates from 2018 can contribute to a higher valuation and move-in readiness.",
+        "safety/privacy": "Recent renovations may include upgraded security systems and improved building codes compliance."
+    },
+    "rehab": {
+        "convenience": "Signals a renovated property, saving buyers time and effort while offering move-in ready conditions.",
+        "resell-value": "Rehabbed homes often sell faster and at a premium due to updated features and modern design.",
+        "safety/privacy": "Renovations typically include structural and safety upgrades, enhancing long-term livability."
+    },
+    "walkable": {
+        "convenience": "Describes proximity to shops, schools, and transit, promoting ease of daily activities without a car.",
+        "resell-value": "Walkable locations are highly sought after, often commanding higher prices and faster sales.",
+        "safety/privacy": "Walkable neighborhoods tend to be well-lit and populated, contributing to a sense of safety."
+    },
+    "cta": {
+        "convenience": "Access to Chicago Transit Authority services makes commuting and city access easier for residents.",
+        "resell-value": "Homes near CTA stations tend to retain value due to their appeal to urban professionals.",
+        "safety/privacy": "Proximity to transit can raise concerns about noise or foot traffic, though location-specific."
+    },
+    "youre": {
+        "convenience": "Marketing language used to personalize and highlight lifestyle benefits for the buyer.",
+        "resell-value": "Creates a sense of emotional connection, which can improve buyer interest and perceived value.",
+        "safety/privacy": "Often associated with descriptions of comfort, quiet streets, or family-friendly features."
+    },
 }
 ch_sh_fast_30 = {
     "galewood": {
@@ -1043,16 +1083,56 @@ ch_ct_fast_25 = {
         "resell-value": "Properties in Wrigleyville often appreciate in value due to the area's popularity and entertainment options.",
         "safety/privacy": "While Wrigleyville is generally safe, the lively environment may lead to concerns about noise and privacy.",
     },
-    # "duravit"
-    # "dornbracht"
-    # "refinished"
-    # "townhome"
-    # "condo"
-    # "walkability"
-    # "skydeck"
-    # "trex"
-    # "2021"
-    # "clybourn"
+    "duravit": {
+        "convenience": "Duravit fixtures reflect modern, high-quality bathroom installations that offer reliable functionality and comfort.",
+        "resell-value": "Premium European brands like Duravit elevate interior appeal and can signal luxury, increasing perceived property value.",
+        "safety/privacy": "Well-designed fixtures support a comfortable and hygienic living space, contributing to personal well-being and safety."
+    },
+    "dornbracht": {
+        "convenience": "High-end Dornbracht faucets and fixtures provide a seamless user experience with precision and ease.",
+        "resell-value": "Known for innovation and luxury, Dornbracht products enhance the prestige of a listing, attracting design-conscious buyers.",
+        "safety/privacy": "Superior quality ensures long-lasting performance and fewer maintenance issues, supporting safe daily use."
+    },
+    "refinished": {
+        "convenience": "Indicates that surfaces such as floors or cabinets have been renewed, reducing immediate work for buyers.",
+        "resell-value": "Refinished interiors can drastically improve appearance and marketability, supporting a higher asking price.",
+        "safety/privacy": "Upgraded materials may improve indoor air quality and remove old, worn elements, contributing to a healthier environment."
+    },
+    "townhome": {
+        "convenience": "Townhomes offer a balance between condo convenience and single-family living, often with private entrances and garages.",
+        "resell-value": "Popular among urban professionals and small families, townhomes in Chicago are in steady demand and hold good value.",
+        "safety/privacy": "Typically more private than high-rise condos, townhomes offer enhanced personal space and security."
+    },
+    "condo": {
+        "convenience": "Condos provide hassle-free living with amenities like maintenance, gyms, and sometimes concierge services.",
+        "resell-value": "Well-managed condo buildings in prime locations often appreciate well and attract consistent buyer interest.",
+        "safety/privacy": "Security systems, keycard access, and staffed entries often make condos secure living environments."
+    },
+    "walkability": {
+        "convenience": "Emphasizes ease of accessing shops, transit, restaurants, and daily services without a car.",
+        "resell-value": "Walkable neighborhoods are consistently linked to higher property values and faster sales, especially in urban markets.",
+        "safety/privacy": "Areas with high walkability often have good lighting and active street life, supporting both safety and vibrancy."
+    },
+    "skydeck": {
+        "convenience": "A skydeck offers residents shared or private outdoor space with city views, ideal for relaxation or socializing.",
+        "resell-value": "Luxury features like a skydeck can set a property apart, enhancing desirability and resale prospects.",
+        "safety/privacy": "Secure access and enclosed design offer recreational space while maintaining resident safety and controlled access."
+    },
+    "trex": {
+        "convenience": "Used in shared or private decks, Trex is a low-maintenance material ideal for high-use areas in multi-unit buildings.",
+        "resell-value": "Durable, weather-resistant Trex materials signal quality and longevity, appealing to buyers concerned with upkeep.",
+        "safety/privacy": "Slip-resistant and sturdy, Trex decking enhances the usability and safety of outdoor communal areas."
+    },
+    "2021": {
+        "convenience": "Implies recent updates or construction, meaning systems and finishes are modern and likely under warranty.",
+        "resell-value": "Newer renovations from 2021 can increase buyer confidence and property value due to up-to-date design and codes.",
+        "safety/privacy": "Recent codes often include improved fire safety, accessibility, and building materials, ensuring a secure environment."
+    },
+    "clybourn": {
+        "convenience": "Refers to the Clybourn Corridor, a vibrant area with retail, dining, and transportation options.",
+        "resell-value": "Properties near Clybourn are attractive due to proximity to commercial hubs and tend to retain value well.",
+        "safety/privacy": "The area is known for being active and well-patrolled, with modern developments offering secure living spaces."
+    }
 }
 ch_ct_fast_30 = {
     "marianos": {
@@ -1789,16 +1869,56 @@ ny_sh_fast_25 = {
         "resell-value": "Properties in Auburndale may appreciate in value due to their desirable location and amenities.",
         "safety/privacy": "The area is generally considered safe, providing a sense of security for families.",
     },
-    # "dinette"
-    # "refinished"
-    # "dyker"
-    # "westerleigh"
-    # "slider"
-    # "woodlawn"
-    # "treelined"
-    # "mudroom"
-    # "2021"
-    # "2017"
+    "dinette": {
+        "convenience": "A dinette offers a compact dining area often connected to the kitchen, ideal for casual meals and everyday use.",
+        "resell-value": "Having a designated eating space, especially in space-limited New York homes, can increase a property’s appeal.",
+        "safety/privacy": "A separate dinette can keep dining areas more private and organized, especially in homes with guests or shared spaces."
+    },
+    "refinished": {
+        "convenience": "Refinished floors or surfaces mean buyers won’t need to renovate immediately, saving time and effort.",
+        "resell-value": "Recent refinishing enhances visual appeal and suggests the home has been well maintained, boosting marketability.",
+        "safety/privacy": "Refinished interiors remove worn materials and may improve cleanliness, contributing to a safer indoor environment."
+    },
+    "dyker": {
+        "convenience": "Dyker Heights is a quiet Brooklyn neighborhood known for its suburban feel and access to shopping and schools.",
+        "resell-value": "Homes in Dyker Heights are consistently in demand for their family-oriented environment, sustaining high resale value.",
+        "safety/privacy": "The area is known for being safe and residential, with well-kept homes and low crime rates contributing to a strong sense of privacy."
+    },
+    "westerleigh": {
+        "convenience": "A Staten Island neighborhood known for its peaceful streets and access to parks, schools, and express bus routes.",
+        "resell-value": "Westerleigh offers stability and suburban charm within the city, helping homes retain long-term value.",
+        "safety/privacy": "Often described as a close-knit and quiet neighborhood, Westerleigh offers residents a high degree of privacy and safety."
+    },
+    "slider": {
+        "convenience": "Sliding doors offer easy access to patios or backyards, improving indoor-outdoor flow and functionality.",
+        "resell-value": "Modern sliders enhance natural light and connection to outdoor space, which are valuable features in NYC homes.",
+        "safety/privacy": "Well-installed sliders provide secure locks and visibility to outdoor areas, supporting both safety and privacy."
+    },
+    "woodlawn": {
+        "convenience": "Located in the Bronx, Woodlawn is a transit-accessible neighborhood with a quiet, residential character.",
+        "resell-value": "Known for its sense of community and Irish-American heritage, homes in Woodlawn often hold their value well.",
+        "safety/privacy": "Woodlawn is viewed as a safe and close-knit area, offering a strong sense of neighborhood privacy and peace."
+    },
+    "treelined": {
+        "convenience": "Tree-lined streets offer visual appeal and shade, enhancing daily comfort during commutes and neighborhood walks.",
+        "resell-value": "Such features signal a desirable, well-kept neighborhood, often contributing to stronger property values.",
+        "safety/privacy": "Tree-lined streets tend to correlate with lower traffic and quieter environments, enhancing residential privacy and calm."
+    },
+    "mudroom": {
+        "convenience": "A mudroom offers a practical buffer zone for coats, shoes, and gear, helping keep the main home cleaner and more organized.",
+        "resell-value": "Additional functional spaces like mudrooms are increasingly desirable and can set a home apart in competitive markets.",
+        "safety/privacy": "Mudrooms help reduce indoor contaminants from outside, supporting cleanliness and household well-being."
+    },
+    "2021": {
+        "convenience": "Indicates the home was recently built or renovated, likely requiring fewer immediate repairs or upgrades.",
+        "resell-value": "Modern updates from 2021 reflect current trends and codes, increasing buyer confidence and resale potential.",
+        "safety/privacy": "Recent construction often includes updated safety features like energy-efficient windows, smart locks, and fire-safe materials."
+    },
+    "2017": {
+        "convenience": "Represents fairly recent improvements or construction, suggesting the home is still in good condition.",
+        "resell-value": "2017 renovations are typically modern enough to still appeal to today’s buyers, retaining much of their value.",
+        "safety/privacy": "Homes updated in 2017 likely meet recent safety standards and may include enhanced privacy features like soundproofing."
+    }
 }
 ny_sh_fast_30 = {
     "throggs": {
@@ -2535,16 +2655,56 @@ ny_ct_fast_25 = {
         "resell-value": "Properties near popular restaurants can appreciate in value due to their desirable location.",
         "safety/privacy": "Dining establishments can enhance community safety through increased foot traffic but may also lead to noise and congestion.",
     },
-    # "vongerichten"
-    # "reimagined"
-    # "bbqs"
-    # "mcnallys"
-    # "condo"
-    # "parkchester"
-    # "nolita"
-    # "meile"
-    # "woodside"
-    # "douglaston"
+    "vongerichten": {
+        "convenience": "References to Jean-Georges Vongerichten, a celebrity chef, may suggest proximity to fine dining, appealing to food-conscious urban buyers.",
+        "resell-value": "Being near high-end restaurants and culinary landmarks can elevate a property's prestige and desirability.",
+        "safety/privacy": "Upscale dining areas are often located in well-maintained, secure neighborhoods with enhanced foot traffic management."
+    },
+    "reimagined": {
+        "convenience": "Implies thoughtful redesign of the living space, often improving flow, light, and functionality for modern lifestyles.",
+        "resell-value": "Reimagined interiors suggest curated upgrades, boosting aesthetic appeal and marketability.",
+        "safety/privacy": "Renovated layouts may incorporate better privacy zoning (e.g., separated bedrooms) and modern safety features."
+    },
+    "bbqs": {
+        "convenience": "BBQ areas, whether private or shared, enhance leisure options and community interaction in multi-family buildings.",
+        "resell-value": "Outdoor amenities like BBQs are attractive features that can distinguish a condo or co-op unit in listings.",
+        "safety/privacy": "Designated BBQ areas often include safety protocols and fire controls, supporting safe shared use."
+    },
+    "mcnallys": {
+        "convenience": "Refers to popular dining spots owned by restaurateur Keith McNally, signaling proximity to cultural and culinary hubs.",
+        "resell-value": "Neighborhoods known for iconic eateries often carry trend-driven appeal, which can positively influence property values.",
+        "safety/privacy": "These vibrant areas are typically located in lively yet secure districts with good lighting and public presence."
+    },
+    "condo": {
+        "convenience": "Condos offer maintenance-free living with amenities like gyms, doormen, and elevators—ideal for busy urban dwellers.",
+        "resell-value": "Condos in NYC, especially in well-managed buildings, tend to appreciate steadily and attract both residents and investors.",
+        "safety/privacy": "Security features such as keycard access, surveillance, and concierge services enhance resident safety and privacy."
+    },
+    "parkchester": {
+        "convenience": "A large residential development in the Bronx with shopping, transit, and schools integrated within walking distance.",
+        "resell-value": "Parkchester units offer affordable entry into homeownership in NYC, with steady value in a well-established community.",
+        "safety/privacy": "The area includes private security and controlled building access, fostering a sense of safety in high-density housing."
+    },
+    "nolita": {
+        "convenience": "North of Little Italy, Nolita is a walkable downtown neighborhood with boutique shopping and stylish cafes.",
+        "resell-value": "Highly sought after for its charm and centrality, Nolita properties typically carry premium value.",
+        "safety/privacy": "While vibrant, Nolita is known for being clean, trendy, and relatively quiet at night, supporting both safety and privacy."
+    },
+    "meile": {
+        "convenience": "Likely referencing 'Miele', a luxury appliance brand, signaling modern, high-end in-unit amenities.",
+        "resell-value": "Miele appliances indicate premium finishes, enhancing the perceived quality and resale potential of the unit.",
+        "safety/privacy": "Reliable and high-performance appliances contribute to safer, more efficient home living."
+    },
+    "woodside": {
+        "convenience": "Located in Queens, Woodside offers access to major subway lines, diverse eateries, and community amenities.",
+        "resell-value": "Known for its affordability and accessibility, Woodside continues to grow in popularity and value.",
+        "safety/privacy": "A residential feel with active community presence and lower crime rates supports both comfort and security."
+    },
+    "douglaston": {
+        "convenience": "A suburban-style neighborhood in eastern Queens offering calm living with access to LIRR and shopping centers.",
+        "resell-value": "Properties in Douglaston are often spacious and desirable for buyers seeking more space within NYC limits.",
+        "safety/privacy": "Tree-lined streets and lower density enhance both the privacy and perceived safety of the neighborhood."
+    }
 }
 ny_ct_fast_30 = {
     "dornbracht": {
@@ -3280,16 +3440,56 @@ la_sh_fast_25 = {
         "resell-value": "Properties in Pacoima may appreciate in value due to the neighborhood's growing popularity.",
         "safety/privacy": "The area is generally considered safe, providing a sense of security for families.",
     },
-    # "backsplash"
-    # "topanga"
-    # "countertop"
-    # "nestled"
-    # "backyard"
-    # "castlebay"
-    # "northridge"
-    # "upgraded"
-    # "10836"
-    # "tujunga"
+    "backsplash": {
+        "convenience": "A stylish and functional kitchen feature that protects walls from splashes and simplifies cleaning.",
+        "resell-value": "Modern or designer backsplashes enhance kitchen aesthetics, signaling attention to detail and increasing buyer appeal.",
+        "safety/privacy": "A well-installed backsplash can prevent water or grease damage, preserving wall integrity and hygiene."
+    },
+    "topanga": {
+        "convenience": "Refers to Topanga Canyon, known for its scenic setting and access to nature, yet still reachable from LA's core.",
+        "resell-value": "Homes in or near Topanga are often prized for their unique setting, attracting buyers looking for privacy and natural beauty.",
+        "safety/privacy": "Topanga offers seclusion, quiet, and a strong sense of privacy, appealing to those seeking refuge from urban density."
+    },
+    "countertop": {
+        "convenience": "A central kitchen surface that supports meal prep and household functionality; quality materials enhance usability.",
+        "resell-value": "Granite, quartz, or marble countertops are often seen as high-end upgrades, boosting visual appeal and resale value.",
+        "safety/privacy": "Durable countertops contribute to food safety and cleanliness, reducing bacteria buildup and damage over time."
+    },
+    "nestled": {
+        "convenience": "Implies a home is comfortably situated within a neighborhood or natural setting, often quiet and low-traffic.",
+        "resell-value": "Homes described as ‘nestled’ often convey exclusivity or charm, appealing to lifestyle-focused buyers.",
+        "safety/privacy": "Suggests seclusion from main roads or noise, increasing privacy and a sense of security."
+    },
+    "backyard": {
+        "convenience": "A private outdoor space for recreation, entertaining, or relaxation—especially valued in LA's climate.",
+        "resell-value": "Homes with usable backyards tend to command higher prices, especially in single-family markets.",
+        "safety/privacy": "Fenced or landscaped backyards provide a private, secure space for families, pets, or quiet enjoyment."
+    },
+    "castlebay": {
+        "convenience": "Likely refers to Castlebay Lane Charter School, a top-rated public school in the Porter Ranch area.",
+        "resell-value": "Being in the Castlebay school zone can significantly enhance property value for buyers with children.",
+        "safety/privacy": "Neighborhoods around top schools are often well-maintained and perceived as safer and more family-friendly."
+    },
+    "northridge": {
+        "convenience": "A suburban LA neighborhood offering access to parks, Cal State Northridge, and shopping centers.",
+        "resell-value": "Northridge homes typically have stable value and attract both families and investors due to local amenities.",
+        "safety/privacy": "Known for its residential layout and community feel, Northridge offers a relatively secure, private atmosphere."
+    },
+    "upgraded": {
+        "convenience": "Indicates that the home includes modern or improved features, reducing move-in effort for buyers.",
+        "resell-value": "Upgraded homes often justify higher listing prices due to enhanced finishes and systems.",
+        "safety/privacy": "Upgrades may include enhanced locks, electrical systems, and appliances, improving overall safety and livability."
+    },
+    "10836": {
+        "convenience": "A street number that may signal a specific, recognizable address in a desirable neighborhood.",
+        "resell-value": "Well-known or easy-to-remember addresses, especially in sought-after ZIP codes, can influence buyer interest.",
+        "safety/privacy": "Depending on context, a property with a specific house number may be perceived as part of a quiet block or gated street."
+    },
+    "tujunga": {
+        "convenience": "Refers to a quiet residential neighborhood in LA’s foothills, offering a semi-rural feel while still close to city services.",
+        "resell-value": "Tujunga homes attract buyers seeking affordability and space, with values rising due to limited supply in hillside areas.",
+        "safety/privacy": "Often detached from high-density zones, Tujunga offers natural buffers and privacy with lower traffic levels."
+    }
 }
 la_sh_fast_30 = {
     "cariso": {
@@ -4026,16 +4226,56 @@ la_ct_fast_25 = {
         "resell-value": "Properties near Westfield centers may have higher resale values due to their desirable location and amenities.",
         "safety/privacy": "Living near a busy shopping area can enhance community safety through increased foot traffic but may also lead to noise and congestion.",
     },
-    # "tarzana"
-    # "frogtown"
-    # "countertop"
-    # "gated"
-    # "ensuite"
-    # "briarcrest"
-    # "patio"
-    # "noho"
-    # "12039"
-    # "spacious"
+    "tarzana": {
+        "convenience": "A San Fernando Valley neighborhood with access to shopping centers, parks, and freeway routes—popular for its livability.",
+        "resell-value": "Tarzana condos and townhomes benefit from strong demand among families and professionals seeking suburban appeal with city access.",
+        "safety/privacy": "The area offers a relatively quiet and secure residential atmosphere, often featuring gated or low-traffic communities."
+    },
+    "frogtown": {
+        "convenience": "An up-and-coming neighborhood near the LA River with access to bike paths, arts venues, and local cafes.",
+        "resell-value": "Frogtown’s revitalization has led to rising property values and growing interest in loft-style and modern housing.",
+        "safety/privacy": "Its semi-industrial roots are being transformed, with newer developments improving lighting, walkability, and safety features."
+    },
+    "countertop": {
+        "convenience": "An essential surface in the kitchen; newer materials offer easy maintenance and everyday functionality.",
+        "resell-value": "Updated countertops in granite, quartz, or marble increase the unit’s market appeal and suggest quality upgrades.",
+        "safety/privacy": "Durable, hygienic surfaces enhance cleanliness and reduce risks related to kitchen wear-and-tear."
+    },
+    "gated": {
+        "convenience": "Gated buildings or communities limit outside access and often include controlled entry and package handling.",
+        "resell-value": "Gated living is a valued amenity in LA’s urban environment, often justifying premium pricing.",
+        "safety/privacy": "Security gates provide a strong physical barrier to outsiders, increasing both perceived and actual resident safety."
+    },
+    "ensuite": {
+        "convenience": "An ensuite bathroom provides private, direct access from the bedroom—especially appreciated in multi-resident households.",
+        "resell-value": "Units with ensuite master bathrooms are highly sought after, adding both luxury and resale value.",
+        "safety/privacy": "Ensuites enhance personal privacy and reduce shared traffic through common areas, improving comfort and safety."
+    },
+    "briarcrest": {
+        "convenience": "Likely refers to Briarcrest Drive or nearby hillside enclaves with peaceful settings and views, still within city limits.",
+        "resell-value": "Addresses near Briarcrest are often in exclusive zones like Beverly Hills-adjacent areas, increasing market prestige.",
+        "safety/privacy": "Low-density surroundings and hillside layouts promote seclusion, noise reduction, and a high degree of privacy."
+    },
+    "patio": {
+        "convenience": "A private or shared outdoor space that supports lounging, dining, or light gardening—ideal in LA’s climate.",
+        "resell-value": "Units with patios offer lifestyle perks and tend to stand out in listings, especially post-pandemic.",
+        "safety/privacy": "A private patio adds a buffer zone between units and outdoor areas, contributing to both spatial separation and secure access."
+    },
+    "noho": {
+        "convenience": "Short for North Hollywood, a vibrant district with access to transit (Metro Red Line), dining, and arts venues.",
+        "resell-value": "NoHo’s ongoing redevelopment and cultural identity contribute to rising home values and buyer interest.",
+        "safety/privacy": "Newer buildings often come with security features and modern layouts, though central locations may trade privacy for access."
+    },
+    "12039": {
+        "convenience": "A specific address number, possibly used in listings to reference a known building or location within a desirable zip code.",
+        "resell-value": "Unique or easy-to-search addresses, particularly in sought-after areas, can influence visibility and desirability of a unit.",
+        "safety/privacy": "Units within well-managed buildings at such addresses may offer added security and controlled access."
+    },
+    "spacious": {
+        "convenience": "Highlights ample living space, which is a strong benefit in multi-unit housing where square footage is often limited.",
+        "resell-value": "Spaciousness is a high-value trait in LA condos or apartments and often justifies a higher price point.",
+        "safety/privacy": "More space allows for separation between living and sleeping areas, offering comfort, reduced noise, and enhanced privacy."
+    }
 }
 la_ct_fast_30 = {
     "townhome": {
