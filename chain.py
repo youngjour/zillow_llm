@@ -183,6 +183,24 @@ words_llm = llm.with_structured_output(MultiTOM)
 # with words & meanings
 
 
+# def build_full_system(sales_speed: dict, th_idx: int, city: str, type: int):
+
+#     words_system = f"""
+#     You are an expert realtor.
+#     The user will provide following information about properties that already have been sold on Zillow.
+#     - Description: text written by the realtor
+#     - Attributes: basic information such as the number of rooms, size, etc.
+#     - Discriminative Words: words commonly used in homes that sell quickly or late
+#     - Meanings: implications of these words for potential buyers in the context of real estate transactions
+#     Your task is to determine whether the property was sold fast, moderate, or slow.
+#     - fast-selling: 0 to {sales_speed[city][type]["fast"][th_idx]} days
+#     - slow-selling: {sales_speed[city][type]["slow"][th_idx]} to 365 days
+#     - moderate-selling: {sales_speed[city][type]["fast"][th_idx]} to {sales_speed[city][type]["slow"][th_idx]} days
+#     Respond with a class name: 'fast', 'moderate', or 'slow', and provide a brief reason (around 200 characters) for your decision.
+#     """
+
+#     return words_system
+
 def build_full_system(sales_speed: dict, th_idx: int, city: str, type: int):
 
     words_system = f"""
@@ -194,13 +212,10 @@ def build_full_system(sales_speed: dict, th_idx: int, city: str, type: int):
     - Meanings: implications of these words for potential buyers in the context of real estate transactions
     Your task is to determine whether the property was sold fast, moderate, or slow.
     - fast-selling: 0 to {sales_speed[city][type]["fast"][th_idx]} days
-    - slow-selling: {sales_speed[city][type]["slow"][th_idx]} to 365 days
-    - moderate-selling: {sales_speed[city][type]["fast"][th_idx]} to {sales_speed[city][type]["slow"][th_idx]} days
-    Respond with a class name: 'fast', 'moderate', or 'slow', and provide a brief reason (around 200 characters) for your decision.
+    Respond with a class name: 'fast', 'normal', and provide a brief reason (around 200 characters) for your decision.
     """
 
     return words_system
-
 
 def build_full_template(
     city: str, single: int, full_system: str, th_val: float, th_idx: int
