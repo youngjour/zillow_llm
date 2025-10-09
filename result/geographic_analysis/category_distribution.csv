@@ -1,0 +1,75 @@
+City,Property Type,Sale Speed,Category,Word Count,Total,Percentage
+Chicago,Condo/Townhouse,Fast,Amenities,7,50,14.0
+Chicago,Condo/Townhouse,Fast,Condition/Quality,2,50,4.0
+Chicago,Condo/Townhouse,Fast,Location/Neighborhood,2,50,4.0
+Chicago,Condo/Townhouse,Fast,Outdoor/Views,3,50,6.0
+Chicago,Condo/Townhouse,Fast,Property Features,3,50,6.0
+Chicago,Condo/Townhouse,Fast,Specific Locations,29,50,58.0
+Chicago,Condo/Townhouse,Fast,Transit/Accessibility,4,50,8.0
+Chicago,Condo/Townhouse,Slow,Amenities,2,50,4.0
+Chicago,Condo/Townhouse,Slow,Location/Neighborhood,4,50,8.0
+Chicago,Condo/Townhouse,Slow,Outdoor/Views,2,50,4.0
+Chicago,Condo/Townhouse,Slow,Property Features,5,50,10.0
+Chicago,Condo/Townhouse,Slow,School/Family,1,50,2.0
+Chicago,Condo/Townhouse,Slow,Specific Locations,36,50,72.0
+Chicago,Single Family,Fast,Amenities,2,50,4.0
+Chicago,Single Family,Fast,Condition/Quality,2,50,4.0
+Chicago,Single Family,Fast,Location/Neighborhood,2,50,4.0
+Chicago,Single Family,Fast,Outdoor/Views,2,50,4.0
+Chicago,Single Family,Fast,Property Features,3,50,6.0
+Chicago,Single Family,Fast,Specific Locations,36,50,72.0
+Chicago,Single Family,Fast,Transit/Accessibility,3,50,6.0
+Chicago,Single Family,Slow,Amenities,3,50,6.0
+Chicago,Single Family,Slow,Condition/Quality,2,50,4.0
+Chicago,Single Family,Slow,Location/Neighborhood,2,50,4.0
+Chicago,Single Family,Slow,Outdoor/Views,3,50,6.0
+Chicago,Single Family,Slow,Property Features,2,50,4.0
+Chicago,Single Family,Slow,Specific Locations,38,50,76.0
+Los Angeles,Condo/Townhouse,Fast,Amenities,5,50,10.0
+Los Angeles,Condo/Townhouse,Fast,Condition/Quality,1,50,2.0
+Los Angeles,Condo/Townhouse,Fast,Location/Neighborhood,3,50,6.0
+Los Angeles,Condo/Townhouse,Fast,Property Features,4,50,8.0
+Los Angeles,Condo/Townhouse,Fast,Specific Locations,36,50,72.0
+Los Angeles,Condo/Townhouse,Fast,Transit/Accessibility,1,50,2.0
+Los Angeles,Condo/Townhouse,Slow,Amenities,4,50,8.0
+Los Angeles,Condo/Townhouse,Slow,Location/Neighborhood,3,50,6.0
+Los Angeles,Condo/Townhouse,Slow,Outdoor/Views,2,50,4.0
+Los Angeles,Condo/Townhouse,Slow,Property Features,2,50,4.0
+Los Angeles,Condo/Townhouse,Slow,Specific Locations,38,50,76.0
+Los Angeles,Condo/Townhouse,Slow,Transit/Accessibility,1,50,2.0
+Los Angeles,Single Family,Fast,Amenities,2,50,4.0
+Los Angeles,Single Family,Fast,Condition/Quality,4,50,8.0
+Los Angeles,Single Family,Fast,Location/Neighborhood,2,50,4.0
+Los Angeles,Single Family,Fast,Property Features,3,50,6.0
+Los Angeles,Single Family,Fast,Specific Locations,38,50,76.0
+Los Angeles,Single Family,Fast,Transit/Accessibility,1,50,2.0
+Los Angeles,Single Family,Slow,Amenities,6,50,12.0
+Los Angeles,Single Family,Slow,Location/Neighborhood,3,50,6.0
+Los Angeles,Single Family,Slow,Outdoor/Views,2,50,4.0
+Los Angeles,Single Family,Slow,Property Features,4,50,8.0
+Los Angeles,Single Family,Slow,School/Family,1,50,2.0
+Los Angeles,Single Family,Slow,Specific Locations,34,50,68.0
+New York,Condo/Townhouse,Fast,Amenities,5,50,10.0
+New York,Condo/Townhouse,Fast,Location/Neighborhood,2,50,4.0
+New York,Condo/Townhouse,Fast,Outdoor/Views,2,50,4.0
+New York,Condo/Townhouse,Fast,Property Features,1,50,2.0
+New York,Condo/Townhouse,Fast,School/Family,1,50,2.0
+New York,Condo/Townhouse,Fast,Specific Locations,39,50,78.0
+New York,Condo/Townhouse,Slow,Amenities,2,50,4.0
+New York,Condo/Townhouse,Slow,Condition/Quality,1,50,2.0
+New York,Condo/Townhouse,Slow,Outdoor/Views,1,50,2.0
+New York,Condo/Townhouse,Slow,Property Features,3,50,6.0
+New York,Condo/Townhouse,Slow,Specific Locations,43,50,86.0
+New York,Single Family,Fast,Amenities,3,50,6.0
+New York,Single Family,Fast,Condition/Quality,1,50,2.0
+New York,Single Family,Fast,Location/Neighborhood,1,50,2.0
+New York,Single Family,Fast,Property Features,3,50,6.0
+New York,Single Family,Fast,Specific Locations,41,50,82.0
+New York,Single Family,Fast,Transit/Accessibility,1,50,2.0
+New York,Single Family,Slow,Amenities,3,50,6.0
+New York,Single Family,Slow,Condition/Quality,1,50,2.0
+New York,Single Family,Slow,Location/Neighborhood,4,50,8.0
+New York,Single Family,Slow,Outdoor/Views,1,50,2.0
+New York,Single Family,Slow,Property Features,1,50,2.0
+New York,Single Family,Slow,Specific Locations,39,50,78.0
+New York,Single Family,Slow,Transit/Accessibility,1,50,2.0

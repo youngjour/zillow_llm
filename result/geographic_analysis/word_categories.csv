@@ -1,0 +1,601 @@
+City,Property Type,Sale Speed,Word,Z-Score,Category
+Chicago,Single Family,Fast,galewood,0.3162130693229494,Specific Locations
+Chicago,Single Family,Fast,rehabbers,0.2985082987749242,Condition/Quality
+Chicago,Single Family,Fast,tuckpointing,0.122017509299989,Specific Locations
+Chicago,Single Family,Fast,ohare,0.1092910143494053,Specific Locations
+Chicago,Single Family,Fast,metra,0.0599138013706899,Transit/Accessibility
+Chicago,Single Family,Fast,rosemoor,0.0573014370657189,Specific Locations
+Chicago,Single Family,Fast,2024,0.0518724362671663,Specific Locations
+Chicago,Single Family,Fast,youll,0.0512913764269676,Specific Locations
+Chicago,Single Family,Fast,gaulter,0.0452677385250941,Specific Locations
+Chicago,Single Family,Fast,dormered,0.0384683538184445,Specific Locations
+Chicago,Single Family,Fast,trex,0.0352548577241244,Specific Locations
+Chicago,Single Family,Fast,sunroom,0.0339837760407337,Property Features
+Chicago,Single Family,Fast,sauganash,0.0337930439333511,Specific Locations
+Chicago,Single Family,Fast,wifi,0.0320830878770843,Amenities
+Chicago,Single Family,Fast,greenview,0.0292335849169984,Outdoor/Views
+Chicago,Single Family,Fast,2018,0.0281900232958079,Specific Locations
+Chicago,Single Family,Fast,rehab,0.0224287139077258,Condition/Quality
+Chicago,Single Family,Fast,walkable,0.0215968723600443,Transit/Accessibility
+Chicago,Single Family,Fast,cta,0.0211124069094725,Transit/Accessibility
+Chicago,Single Family,Fast,youre,0.0200350733953294,Specific Locations
+Chicago,Single Family,Fast,oversized,0.0187302316088239,Specific Locations
+Chicago,Single Family,Fast,paver,0.0176859131778987,Location/Neighborhood
+Chicago,Single Family,Fast,schorsch,0.0165493316395206,Specific Locations
+Chicago,Single Family,Fast,2021,0.0162184642977244,Specific Locations
+Chicago,Single Family,Fast,miele,0.0150546704509865,Specific Locations
+Chicago,Single Family,Fast,2017,0.0148453266999764,Specific Locations
+Chicago,Single Family,Fast,rowhouse,0.0147638812939995,Specific Locations
+Chicago,Single Family,Fast,2023,0.0146434319725662,Specific Locations
+Chicago,Single Family,Fast,backyard,0.0144002429092975,Property Features
+Chicago,Single Family,Fast,hardwood,0.0143477085127936,Amenities
+Chicago,Single Family,Fast,humbolt,0.0119788868890761,Specific Locations
+Chicago,Single Family,Fast,expressway,0.0119466857321433,Location/Neighborhood
+Chicago,Single Family,Fast,2016,0.0118338147677467,Specific Locations
+Chicago,Single Family,Fast,fridge,0.0117828137992357,Specific Locations
+Chicago,Single Family,Fast,downspouts,0.0117027571140417,Specific Locations
+Chicago,Single Family,Fast,expansive,0.0115140372477564,Specific Locations
+Chicago,Single Family,Fast,barbeque,0.0113290347535946,Specific Locations
+Chicago,Single Family,Fast,4226,0.0112553578310212,Specific Locations
+Chicago,Single Family,Fast,budlong,0.0110969027129247,Specific Locations
+Chicago,Single Family,Fast,3622,0.0110004527754295,Specific Locations
+Chicago,Single Family,Fast,park,0.0107579074853138,Outdoor/Views
+Chicago,Single Family,Fast,rosco,0.01040426826867,Specific Locations
+Chicago,Single Family,Fast,millwork,0.0104015362715732,Specific Locations
+Chicago,Single Family,Fast,seamlessly,0.0103924710553481,Specific Locations
+Chicago,Single Family,Fast,cozy,0.0102406871815835,Specific Locations
+Chicago,Single Family,Fast,garfield,0.0102353254754251,Specific Locations
+Chicago,Single Family,Fast,garage,0.0099208707110645,Property Features
+Chicago,Single Family,Fast,charming,0.0098642403466309,Specific Locations
+Chicago,Single Family,Fast,oriole,0.009800076679136,Specific Locations
+Chicago,Single Family,Fast,1000000,0.0095360854272843,Specific Locations
+New York,Single Family,Fast,lirr,0.0430532315299612,Specific Locations
+New York,Single Family,Fast,backsplash,0.0361893727915609,Amenities
+New York,Single Family,Fast,8205,0.0330524005506648,Specific Locations
+New York,Single Family,Fast,annadale,0.0285424294431074,Specific Locations
+New York,Single Family,Fast,9794,0.028307037656053,Specific Locations
+New York,Single Family,Fast,9792,0.0280332115338912,Specific Locations
+New York,Single Family,Fast,costco,0.0277299075867568,Specific Locations
+New York,Single Family,Fast,throggs,0.0226863654670902,Specific Locations
+New York,Single Family,Fast,tottenville,0.0184288524564172,Specific Locations
+New York,Single Family,Fast,auburndale,0.0162597999235828,Specific Locations
+New York,Single Family,Fast,dinette,0.0158457462275833,Specific Locations
+New York,Single Family,Fast,refinished,0.0140715335644205,Condition/Quality
+New York,Single Family,Fast,dyker,0.0134732148802742,Specific Locations
+New York,Single Family,Fast,westerleigh,0.0129046920276078,Location/Neighborhood
+New York,Single Family,Fast,slider,0.0128676932292228,Specific Locations
+New York,Single Family,Fast,woodlawn,0.0115348568245528,Specific Locations
+New York,Single Family,Fast,treelined,0.0108302662487791,Transit/Accessibility
+New York,Single Family,Fast,mudroom,0.0101667279501655,Property Features
+New York,Single Family,Fast,2021,0.0101384796188528,Specific Locations
+New York,Single Family,Fast,2017,0.0098983605337799,Specific Locations
+New York,Single Family,Fast,countertop,0.0097806911050495,Specific Locations
+New York,Single Family,Fast,grymes,0.0097597919481208,Specific Locations
+New York,Single Family,Fast,condo,0.0095615198601308,Specific Locations
+New York,Single Family,Fast,2022,0.0094476259678428,Specific Locations
+New York,Single Family,Fast,eik,0.0094422862281033,Specific Locations
+New York,Single Family,Fast,hvac,0.0093831667214644,Amenities
+New York,Single Family,Fast,functionality,0.0092011939317332,Specific Locations
+New York,Single Family,Fast,oakwood,0.0088722761031112,Specific Locations
+New York,Single Family,Fast,sunroom,0.0084966406621829,Property Features
+New York,Single Family,Fast,foyer,0.0081041228229151,Specific Locations
+New York,Single Family,Fast,ductless,0.0077927177086432,Specific Locations
+New York,Single Family,Fast,boasting,0.0077415977406193,Specific Locations
+New York,Single Family,Fast,cabana,0.0077270111254459,Specific Locations
+New York,Single Family,Fast,2015,0.0071962252721461,Specific Locations
+New York,Single Family,Fast,ranch,0.0068720451121794,Specific Locations
+New York,Single Family,Fast,impeccably,0.0066821690015117,Specific Locations
+New York,Single Family,Fast,hoa,0.0065774685536302,Specific Locations
+New York,Single Family,Fast,kitchenette,0.0065461297448138,Property Features
+New York,Single Family,Fast,unwinding,0.0065306168280024,Specific Locations
+New York,Single Family,Fast,hylan,0.0064108851571029,Specific Locations
+New York,Single Family,Fast,glendale,0.0062870975612043,Specific Locations
+New York,Single Family,Fast,joes,0.0061220835524223,Specific Locations
+New York,Single Family,Fast,nestled,0.0060978167140867,Specific Locations
+New York,Single Family,Fast,pkwy,0.0058377790626795,Specific Locations
+New York,Single Family,Fast,baseboard,0.0055770561220273,Specific Locations
+New York,Single Family,Fast,gleaming,0.005008103971833,Specific Locations
+New York,Single Family,Fast,appliance,0.0048324420660578,Specific Locations
+New York,Single Family,Fast,effortless,0.0047231674583837,Specific Locations
+New York,Single Family,Fast,stainless,0.0046028000826128,Amenities
+New York,Single Family,Fast,epitome,0.0045967991541927,Specific Locations
+Los Angeles,Single Family,Fast,cariso,0.1393462582475874,Specific Locations
+Los Angeles,Single Family,Fast,csun,0.0977069489683345,Specific Locations
+Los Angeles,Single Family,Fast,adu,0.0942716501606461,Specific Locations
+Los Angeles,Single Family,Fast,walkability,0.0837546333972109,Transit/Accessibility
+Los Angeles,Single Family,Fast,20345,0.0816496797950387,Specific Locations
+Los Angeles,Single Family,Fast,drywalled,0.0746394297098911,Specific Locations
+Los Angeles,Single Family,Fast,sylmar,0.068462070629966,Specific Locations
+Los Angeles,Single Family,Fast,18232,0.0668154662894227,Specific Locations
+Los Angeles,Single Family,Fast,hardscaping,0.0644155873628779,Specific Locations
+Los Angeles,Single Family,Fast,pacoima,0.0624913658224299,Amenities
+Los Angeles,Single Family,Fast,backsplash,0.057835491050337,Amenities
+Los Angeles,Single Family,Fast,topanga,0.0533301477017191,Specific Locations
+Los Angeles,Single Family,Fast,countertop,0.0513148282500231,Specific Locations
+Los Angeles,Single Family,Fast,nestled,0.0497878277959816,Specific Locations
+Los Angeles,Single Family,Fast,backyard,0.0489781142875308,Property Features
+Los Angeles,Single Family,Fast,castlebay,0.0483941196830561,Specific Locations
+Los Angeles,Single Family,Fast,northridge,0.047392359304032,Location/Neighborhood
+Los Angeles,Single Family,Fast,upgraded,0.046735730259301,Condition/Quality
+Los Angeles,Single Family,Fast,10836,0.0457392356942231,Specific Locations
+Los Angeles,Single Family,Fast,tujunga,0.0429782987757071,Specific Locations
+Los Angeles,Single Family,Fast,knollwood,0.0413721215906116,Specific Locations
+Los Angeles,Single Family,Fast,youre,0.0380674560293179,Specific Locations
+Los Angeles,Single Family,Fast,gladbeck,0.0373721293670711,Specific Locations
+Los Angeles,Single Family,Fast,recessed,0.0371189342496812,Specific Locations
+Los Angeles,Single Family,Fast,13122,0.0366375478632356,Specific Locations
+Los Angeles,Single Family,Fast,bbqs,0.0366252598313434,Specific Locations
+Los Angeles,Single Family,Fast,kilkea,0.0356013368998674,Specific Locations
+Los Angeles,Single Family,Fast,fwy,0.0344938320052182,Specific Locations
+Los Angeles,Single Family,Fast,tarzana,0.0341616967904436,Specific Locations
+Los Angeles,Single Family,Fast,winnetka,0.0336661672400039,Specific Locations
+Los Angeles,Single Family,Fast,flooring,0.0335878887404149,Property Features
+Los Angeles,Single Family,Fast,10309,0.0327389598858283,Specific Locations
+Los Angeles,Single Family,Fast,nuys,0.0322813586167735,Specific Locations
+Los Angeles,Single Family,Fast,calabasas,0.032233302882741,Specific Locations
+Los Angeles,Single Family,Fast,sunland,0.0317941173352566,Specific Locations
+Los Angeles,Single Family,Fast,refinished,0.0316609594295307,Condition/Quality
+Los Angeles,Single Family,Fast,cozy,0.0315920827316424,Specific Locations
+Los Angeles,Single Family,Fast,pane,0.0309185421420197,Specific Locations
+Los Angeles,Single Family,Fast,laminate,0.0290981063138506,Specific Locations
+Los Angeles,Single Family,Fast,11070,0.02779974324474,Specific Locations
+Los Angeles,Single Family,Fast,reseda,0.0275444190413426,Specific Locations
+Los Angeles,Single Family,Fast,gelson,0.0271018860571268,Specific Locations
+Los Angeles,Single Family,Fast,freeway,0.0265679546181368,Location/Neighborhood
+Los Angeles,Single Family,Fast,garage,0.0264907344316428,Property Features
+Los Angeles,Single Family,Fast,7838,0.0257817931916877,Specific Locations
+Los Angeles,Single Family,Fast,fixer,0.0247447305277453,Condition/Quality
+Los Angeles,Single Family,Fast,trex,0.0235056250668248,Specific Locations
+Los Angeles,Single Family,Fast,newer,0.0233895648280801,Condition/Quality
+Los Angeles,Single Family,Fast,9115,0.0226056282432962,Specific Locations
+Los Angeles,Single Family,Fast,marmi,0.0225137013250218,Specific Locations
+Chicago,Single Family,Slow,rehabbed,0.1055745279426692,Condition/Quality
+Chicago,Single Family,Slow,thermador,0.0670318876825813,Specific Locations
+Chicago,Single Family,Slow,dimmable,0.038910355007373,Specific Locations
+Chicago,Single Family,Slow,obama,0.0343962913160139,Specific Locations
+Chicago,Single Family,Slow,townhome,0.031181743693215,Specific Locations
+Chicago,Single Family,Slow,225000,0.0281051747623708,Specific Locations
+Chicago,Single Family,Slow,countertop,0.0220005432483988,Specific Locations
+Chicago,Single Family,Slow,mudroom,0.0203197781473194,Property Features
+Chicago,Single Family,Slow,frameless,0.0193118762132928,Specific Locations
+Chicago,Single Family,Slow,bbqs,0.0183218131676352,Specific Locations
+Chicago,Single Family,Slow,renovated,0.0179756581784291,Condition/Quality
+Chicago,Single Family,Slow,hookup,0.0172561813170031,Specific Locations
+Chicago,Single Family,Slow,jetted,0.0150588006898783,Specific Locations
+Chicago,Single Family,Slow,backsplash,0.0144628052845623,Amenities
+Chicago,Single Family,Slow,redone,0.0141523972810573,Specific Locations
+Chicago,Single Family,Slow,skyway,0.0116717690746947,Location/Neighborhood
+Chicago,Single Family,Slow,crains,0.0102652057765985,Specific Locations
+Chicago,Single Family,Slow,hwh,0.0096072487388993,Specific Locations
+Chicago,Single Family,Slow,2022,0.0094476391661166,Specific Locations
+Chicago,Single Family,Slow,cht,0.0093955241388775,Specific Locations
+Chicago,Single Family,Slow,gfa,0.0089983344878705,Specific Locations
+Chicago,Single Family,Slow,homebuyers,0.0087457110004961,Specific Locations
+Chicago,Single Family,Slow,woodburning,0.0087162687837248,Specific Locations
+Chicago,Single Family,Slow,woodlawn,0.0076908723489012,Specific Locations
+Chicago,Single Family,Slow,plumbing,0.0073341663123401,Specific Locations
+Chicago,Single Family,Slow,emd,0.0072689529079265,Specific Locations
+Chicago,Single Family,Slow,gorgeous,0.0071913857854669,Specific Locations
+Chicago,Single Family,Slow,stunner,0.0069680690111032,Specific Locations
+Chicago,Single Family,Slow,sfh,0.0066281834917011,Specific Locations
+Chicago,Single Family,Slow,buyer,0.0065743947632521,Specific Locations
+Chicago,Single Family,Slow,riverfront,0.0065582082585698,Outdoor/Views
+Chicago,Single Family,Slow,laminate,0.0064676272569925,Specific Locations
+Chicago,Single Family,Slow,renovation,0.0064262808511992,Specific Locations
+Chicago,Single Family,Slow,pavers,0.0062493318404055,Location/Neighborhood
+Chicago,Single Family,Slow,stainless,0.0059853113200946,Amenities
+Chicago,Single Family,Slow,pergola,0.0059616085457631,Specific Locations
+Chicago,Single Family,Slow,rooftop,0.0059152852106373,Outdoor/Views
+Chicago,Single Family,Slow,maytag,0.0058929164976844,Specific Locations
+Chicago,Single Family,Slow,pella,0.0054021624305291,Specific Locations
+Chicago,Single Family,Slow,brickyard,0.0053302618106876,Property Features
+Chicago,Single Family,Slow,lakefront,0.0052482507356454,Outdoor/Views
+Chicago,Single Family,Slow,coonley,0.0051326794195807,Specific Locations
+Chicago,Single Family,Slow,savvy,0.0051055112134726,Specific Locations
+Chicago,Single Family,Slow,mesmerizing,0.0050482955720674,Specific Locations
+Chicago,Single Family,Slow,tile,0.005016807060775,Amenities
+Chicago,Single Family,Slow,homeowner,0.0049018911715224,Specific Locations
+Chicago,Single Family,Slow,galore,0.0048461421020117,Specific Locations
+Chicago,Single Family,Slow,oasis,0.0047813474776884,Specific Locations
+Chicago,Single Family,Slow,remodel,0.0046874100236129,Specific Locations
+Chicago,Single Family,Slow,2013,0.0046557445865352,Specific Locations
+New York,Single Family,Slow,bxm,0.1337625599407097,Specific Locations
+New York,Single Family,Slow,robinwood,0.065953884805544,Specific Locations
+New York,Single Family,Slow,inground,0.0576269604292965,Specific Locations
+New York,Single Family,Slow,metronorth,0.0535286697992092,Location/Neighborhood
+New York,Single Family,Slow,470000,0.0485356070896116,Specific Locations
+New York,Single Family,Slow,thermador,0.0447212810105337,Specific Locations
+New York,Single Family,Slow,fieldston,0.0393065646137078,Specific Locations
+New York,Single Family,Slow,bbqs,0.0366370757505342,Specific Locations
+New York,Single Family,Slow,youll,0.034879778877484,Specific Locations
+New York,Single Family,Slow,townhome,0.0311738811147368,Specific Locations
+New York,Single Family,Slow,cabinetry,0.0291334601847205,Specific Locations
+New York,Single Family,Slow,beechhurst,0.0233952773688769,Specific Locations
+New York,Single Family,Slow,arrochar,0.0171635612935946,Specific Locations
+New York,Single Family,Slow,buildable,0.0158421426742644,Specific Locations
+New York,Single Family,Slow,laurelton,0.0153898736872579,Specific Locations
+New York,Single Family,Slow,maspeth,0.0153816784033567,Specific Locations
+New York,Single Family,Slow,woodhaven,0.0136276155945502,Location/Neighborhood
+New York,Single Family,Slow,jacuzzi,0.0133985575972136,Amenities
+New York,Single Family,Slow,homebuyers,0.0131170937363571,Specific Locations
+New York,Single Family,Slow,spacious,0.0130388779851817,Amenities
+New York,Single Family,Slow,thats,0.0125676170350412,Specific Locations
+New York,Single Family,Slow,stackable,0.0121740569542074,Amenities
+New York,Single Family,Slow,riverdale,0.0115656126600808,Outdoor/Views
+New York,Single Family,Slow,flatbush,0.0112915042970129,Transit/Accessibility
+New York,Single Family,Slow,gerritsen,0.0109056258702515,Specific Locations
+New York,Single Family,Slow,standout,0.0107842985512374,Specific Locations
+New York,Single Family,Slow,staten,0.0106979380951698,Specific Locations
+New York,Single Family,Slow,2019,0.0103035982044145,Specific Locations
+New York,Single Family,Slow,windowed,0.0098685035377173,Property Features
+New York,Single Family,Slow,jenn,0.0092794257973799,Specific Locations
+New York,Single Family,Slow,turnkey,0.0086864952388149,Condition/Quality
+New York,Single Family,Slow,eatery,0.0084988413767385,Specific Locations
+New York,Single Family,Slow,triplex,0.0083201557470524,Specific Locations
+New York,Single Family,Slow,ensuite,0.008195808413382,Specific Locations
+New York,Single Family,Slow,seagate,0.0081362815508745,Specific Locations
+New York,Single Family,Slow,driveway,0.0081314427176437,Location/Neighborhood
+New York,Single Family,Slow,tub,0.0077555971564202,Specific Locations
+New York,Single Family,Slow,barbeque,0.0075526129233013,Specific Locations
+New York,Single Family,Slow,bellerose,0.0074635127171841,Specific Locations
+New York,Single Family,Slow,sgd,0.0073723678698639,Specific Locations
+New York,Single Family,Slow,skylight,0.0071191229009294,Specific Locations
+New York,Single Family,Slow,wainscoting,0.0071141102614448,Specific Locations
+New York,Single Family,Slow,duplex,0.0067167247944812,Specific Locations
+New York,Single Family,Slow,sheepshead,0.0066459842799223,Specific Locations
+New York,Single Family,Slow,combi,0.0065964068798959,Specific Locations
+New York,Single Family,Slow,foot,0.0064895521462387,Specific Locations
+New York,Single Family,Slow,hookup,0.006469907045133,Specific Locations
+New York,Single Family,Slow,pavers,0.0062476609506323,Location/Neighborhood
+New York,Single Family,Slow,brooklyn,0.0060432585548968,Specific Locations
+New York,Single Family,Slow,landscaping,0.0060058939797273,Specific Locations
+Los Angeles,Single Family,Slow,thermador,0.3331654881045433,Specific Locations
+Los Angeles,Single Family,Slow,vickys,0.1901125639437915,Specific Locations
+Los Angeles,Single Family,Slow,bertazzoni,0.1826685124958649,Specific Locations
+Los Angeles,Single Family,Slow,thinq,0.1822331832841267,Specific Locations
+Los Angeles,Single Family,Slow,leimert,0.1358465865112566,Specific Locations
+Los Angeles,Single Family,Slow,cabinetry,0.130982520021796,Specific Locations
+Los Angeles,Single Family,Slow,roscomare,0.1209710210726256,Specific Locations
+Los Angeles,Single Family,Slow,ensuite,0.0950452567418331,Specific Locations
+Los Angeles,Single Family,Slow,calcatta,0.0949153299257279,Specific Locations
+Los Angeles,Single Family,Slow,seamlessly,0.0908953470888042,Specific Locations
+Los Angeles,Single Family,Slow,milgard,0.0892048131690847,Specific Locations
+Los Angeles,Single Family,Slow,brentwoods,0.0885611022281457,Specific Locations
+Los Angeles,Single Family,Slow,dtla,0.0773020679712486,Specific Locations
+Los Angeles,Single Family,Slow,tankless,0.0739132094240296,Specific Locations
+Los Angeles,Single Family,Slow,fryman,0.0673723915447082,Specific Locations
+Los Angeles,Single Family,Slow,westcliffe,0.0618714238611349,Location/Neighborhood
+Los Angeles,Single Family,Slow,mountaingate,0.0617210740443777,Outdoor/Views
+Los Angeles,Single Family,Slow,barbeque,0.0603948463543021,Specific Locations
+Los Angeles,Single Family,Slow,westdale,0.0591566161451136,Location/Neighborhood
+Los Angeles,Single Family,Slow,kentwood,0.0586819596327038,Specific Locations
+Los Angeles,Single Family,Slow,lutron,0.053964905133431,Specific Locations
+Los Angeles,Single Family,Slow,westside,0.0539461957366703,Location/Neighborhood
+Los Angeles,Single Family,Slow,spa,0.0513448973901952,Amenities
+Los Angeles,Single Family,Slow,reimagined,0.0492422933428835,Specific Locations
+Los Angeles,Single Family,Slow,wifi,0.0480935264320726,Amenities
+Los Angeles,Single Family,Slow,beachwood,0.0452875657724783,Amenities
+Los Angeles,Single Family,Slow,lacma,0.0445484299436948,Amenities
+Los Angeles,Single Family,Slow,appliance,0.0434541421669606,Specific Locations
+Los Angeles,Single Family,Slow,gated,0.0433787503826024,Specific Locations
+Los Angeles,Single Family,Slow,curated,0.0432416970238394,School/Family
+Los Angeles,Single Family,Slow,kenter,0.0422362636001042,Specific Locations
+Los Angeles,Single Family,Slow,outdoor,0.0405975763946172,Property Features
+Los Angeles,Single Family,Slow,culdesac,0.0403046700039927,Amenities
+Los Angeles,Single Family,Slow,miele,0.0401403446607527,Specific Locations
+Los Angeles,Single Family,Slow,silverlake,0.0389615955425287,Specific Locations
+Los Angeles,Single Family,Slow,rooftop,0.0384310516221071,Outdoor/Views
+Los Angeles,Single Family,Slow,gaggenau,0.0382775780570025,Specific Locations
+Los Angeles,Single Family,Slow,showcasing,0.0375973361893743,Specific Locations
+Los Angeles,Single Family,Slow,midvale,0.0371674240141401,Specific Locations
+Los Angeles,Single Family,Slow,fridge,0.036820705693096,Specific Locations
+Los Angeles,Single Family,Slow,tartine,0.0363212444889492,Specific Locations
+Los Angeles,Single Family,Slow,counterspace,0.0361783376558373,Property Features
+Los Angeles,Single Family,Slow,feliz,0.0359042565652804,Specific Locations
+Los Angeles,Single Family,Slow,closet,0.0343386075480994,Property Features
+Los Angeles,Single Family,Slow,hazelhurst,0.0338587091000363,Specific Locations
+Los Angeles,Single Family,Slow,suite,0.0326834445866987,Specific Locations
+Los Angeles,Single Family,Slow,floorpan,0.0321657089935516,Property Features
+Los Angeles,Single Family,Slow,brentwood,0.0313224338743078,Specific Locations
+Los Angeles,Single Family,Slow,townhome,0.0311811071747835,Specific Locations
+Los Angeles,Single Family,Slow,stackable,0.0304261815059391,Amenities
+Chicago,Condo/Townhouse,Fast,hoas,0.135031792762254,Specific Locations
+Chicago,Condo/Townhouse,Fast,tottos,0.1199509922612215,Specific Locations
+Chicago,Condo/Townhouse,Fast,galewood,0.1057027326752165,Specific Locations
+Chicago,Condo/Townhouse,Fast,bucktown,0.1013964605133792,Specific Locations
+Chicago,Condo/Townhouse,Fast,countertop,0.0952924205224375,Specific Locations
+Chicago,Condo/Townhouse,Fast,openhouse,0.0949154763638675,Specific Locations
+Chicago,Condo/Townhouse,Fast,marianos,0.0947824436948085,Specific Locations
+Chicago,Condo/Townhouse,Fast,rehabbed,0.0925630907109347,Condition/Quality
+Chicago,Condo/Townhouse,Fast,backsplash,0.0866295973283409,Amenities
+Chicago,Condo/Townhouse,Fast,wrigleyville,0.0703815104176837,Specific Locations
+Chicago,Condo/Townhouse,Fast,duravit,0.0690064876742161,Specific Locations
+Chicago,Condo/Townhouse,Fast,dornbracht,0.0688425798151728,Amenities
+Chicago,Condo/Townhouse,Fast,refinished,0.0633080841610346,Condition/Quality
+Chicago,Condo/Townhouse,Fast,townhome,0.061898429884774,Specific Locations
+Chicago,Condo/Townhouse,Fast,condo,0.0589252941877474,Specific Locations
+Chicago,Condo/Townhouse,Fast,walkability,0.055858050908528,Transit/Accessibility
+Chicago,Condo/Townhouse,Fast,skydeck,0.0506045219356972,Property Features
+Chicago,Condo/Townhouse,Fast,trex,0.035235633377641,Specific Locations
+Chicago,Condo/Townhouse,Fast,2021,0.0344665506590204,Specific Locations
+Chicago,Condo/Townhouse,Fast,clybourn,0.0339666653530739,Specific Locations
+Chicago,Condo/Townhouse,Fast,osco,0.0332985572390778,Specific Locations
+Chicago,Condo/Townhouse,Fast,tankless,0.0317731620401253,Specific Locations
+Chicago,Condo/Townhouse,Fast,sunroom,0.0297361009433345,Property Features
+Chicago,Condo/Townhouse,Fast,lakeview,0.0288389487394769,Outdoor/Views
+Chicago,Condo/Townhouse,Fast,hwh,0.0288208395134283,Specific Locations
+Chicago,Condo/Townhouse,Fast,2022,0.0283378079912471,Specific Locations
+Chicago,Condo/Townhouse,Fast,appliance,0.027769517617354,Specific Locations
+Chicago,Condo/Townhouse,Fast,aldi,0.0270814666371321,Specific Locations
+Chicago,Condo/Townhouse,Fast,freides,0.0265887784504582,Specific Locations
+Chicago,Condo/Townhouse,Fast,seamlessly,0.0259817894784504,Specific Locations
+Chicago,Condo/Townhouse,Fast,nightlife,0.025849400118868,Specific Locations
+Chicago,Condo/Townhouse,Fast,cabinetry,0.025472038327505,Specific Locations
+Chicago,Condo/Townhouse,Fast,hardwood,0.0254415985536359,Amenities
+Chicago,Condo/Townhouse,Fast,wrigley,0.0252493752640043,Specific Locations
+Chicago,Condo/Townhouse,Fast,cta,0.0243610262187305,Transit/Accessibility
+Chicago,Condo/Townhouse,Fast,redline,0.0231607879669744,Transit/Accessibility
+Chicago,Condo/Townhouse,Fast,stainless,0.0225359397831304,Amenities
+Chicago,Condo/Townhouse,Fast,ravenswood,0.0207670189525323,Location/Neighborhood
+Chicago,Condo/Townhouse,Fast,dishwasher,0.0198826575587193,Amenities
+Chicago,Condo/Townhouse,Fast,marovitz,0.0198477454063226,Specific Locations
+Chicago,Condo/Townhouse,Fast,greenview,0.0194901672523092,Outdoor/Views
+Chicago,Condo/Townhouse,Fast,southport,0.018383603958657,Location/Neighborhood
+Chicago,Condo/Townhouse,Fast,bbqs,0.0183155036632635,Specific Locations
+Chicago,Condo/Townhouse,Fast,stackable,0.0182584157259149,Amenities
+Chicago,Condo/Townhouse,Fast,showstopper,0.0179431623853309,Transit/Accessibility
+Chicago,Condo/Townhouse,Fast,dryer,0.0166855733337664,Amenities
+Chicago,Condo/Townhouse,Fast,grohe,0.0158133516967013,Specific Locations
+Chicago,Condo/Townhouse,Fast,lakefront,0.0157334213751706,Outdoor/Views
+Chicago,Condo/Townhouse,Fast,wrightwood,0.0156126034025062,Specific Locations
+Chicago,Condo/Townhouse,Fast,bedroom,0.0154762467111946,Property Features
+New York,Condo/Townhouse,Fast,chelseas,0.2075072500880402,Specific Locations
+New York,Condo/Townhouse,Fast,dornbracht,0.202714911320981,Amenities
+New York,Condo/Townhouse,Fast,backsplashes,0.0879599633845249,Amenities
+New York,Condo/Townhouse,Fast,lirr,0.0859472398138604,Specific Locations
+New York,Condo/Townhouse,Fast,calatravas,0.0848187716103974,Specific Locations
+New York,Condo/Townhouse,Fast,baychester,0.0834299707782454,Specific Locations
+New York,Condo/Townhouse,Fast,peloton,0.0733036954268054,Specific Locations
+New York,Condo/Townhouse,Fast,throggs,0.0680589769313795,Specific Locations
+New York,Condo/Townhouse,Fast,townhome,0.0623329842960303,Specific Locations
+New York,Condo/Townhouse,Fast,carmellini,0.0587727695607152,Specific Locations
+New York,Condo/Townhouse,Fast,vongerichten,0.0574485637789486,Specific Locations
+New York,Condo/Townhouse,Fast,reimagined,0.0562909606378594,Specific Locations
+New York,Condo/Townhouse,Fast,bbqs,0.0549466627814937,Specific Locations
+New York,Condo/Townhouse,Fast,mcnallys,0.0514345365051842,Specific Locations
+New York,Condo/Townhouse,Fast,condo,0.0509798244988692,Specific Locations
+New York,Condo/Townhouse,Fast,parkchester,0.0426113439258596,Outdoor/Views
+New York,Condo/Townhouse,Fast,nolita,0.0425052312664194,Specific Locations
+New York,Condo/Townhouse,Fast,meile,0.0401127320438019,Specific Locations
+New York,Condo/Townhouse,Fast,woodside,0.0343978923390043,Specific Locations
+New York,Condo/Townhouse,Fast,douglaston,0.0334453151243838,Specific Locations
+New York,Condo/Townhouse,Fast,delicato,0.0326920832056708,Specific Locations
+New York,Condo/Townhouse,Fast,countertop,0.0317703441205673,Specific Locations
+New York,Condo/Townhouse,Fast,manhatta,0.0314504379268163,Specific Locations
+New York,Condo/Townhouse,Fast,combo,0.0313033411704882,Specific Locations
+New York,Condo/Townhouse,Fast,westly,0.0312519457094227,Location/Neighborhood
+New York,Condo/Townhouse,Fast,seamlessly,0.031179411574093,Specific Locations
+New York,Condo/Townhouse,Fast,vrf,0.0300197795744219,Specific Locations
+New York,Condo/Townhouse,Fast,expy,0.0291174735120812,Specific Locations
+New York,Condo/Townhouse,Fast,forino,0.0267549006889493,Specific Locations
+New York,Condo/Townhouse,Fast,curated,0.0266142791655138,School/Family
+New York,Condo/Townhouse,Fast,condominium,0.026407771132265,Specific Locations
+New York,Condo/Townhouse,Fast,westerleigh,0.0258157885176991,Location/Neighborhood
+New York,Condo/Townhouse,Fast,staten,0.0252927640530045,Specific Locations
+New York,Condo/Townhouse,Fast,stirk,0.0252010463573459,Specific Locations
+New York,Condo/Townhouse,Fast,miele,0.02507617557623,Specific Locations
+New York,Condo/Townhouse,Fast,washer,0.0248525001493515,Amenities
+New York,Condo/Townhouse,Fast,dryer,0.0246342720968127,Amenities
+New York,Condo/Townhouse,Fast,trendiest,0.0245797507709457,Specific Locations
+New York,Condo/Townhouse,Fast,cooktop,0.0242308433321409,Specific Locations
+New York,Condo/Townhouse,Fast,brownstone,0.0233967209359635,Specific Locations
+New York,Condo/Townhouse,Fast,bandshell,0.0221921545967866,Specific Locations
+New York,Condo/Townhouse,Fast,rooftop,0.0221755769301361,Outdoor/Views
+New York,Condo/Townhouse,Fast,sonos,0.0219795864616219,Specific Locations
+New York,Condo/Townhouse,Fast,honed,0.0206838464537168,Specific Locations
+New York,Condo/Townhouse,Fast,boutique,0.0201461029724841,Specific Locations
+New York,Condo/Townhouse,Fast,graniteville,0.0199383155528249,Amenities
+New York,Condo/Townhouse,Fast,appliance,0.0199263319842028,Specific Locations
+New York,Condo/Townhouse,Fast,uws,0.019901006049352,Specific Locations
+New York,Condo/Townhouse,Fast,bathroom,0.0194330424559548,Property Features
+New York,Condo/Townhouse,Fast,townhouse,0.0188977195040819,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,townhome,0.7246069972679903,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,thinq,0.2425268629557715,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,townhouse,0.0944810780058455,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,backsplash,0.0795742970090029,Amenities
+Los Angeles,Condo/Townhouse,Fast,encino,0.0762757972235913,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,csun,0.0733015620187106,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,sylmar,0.0684704980392261,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,topanga,0.0656407792586767,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,wifi,0.0641005049917895,Amenities
+Los Angeles,Condo/Townhouse,Fast,westfields,0.0589767133362803,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Fast,tarzana,0.0569412739616324,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,frogtown,0.0537699557619609,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,countertop,0.048888036247565,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,gated,0.0488076570545634,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,ensuite,0.0475344773708328,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,briarcrest,0.044151018953931,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,patio,0.0435985055052481,Property Features
+Los Angeles,Condo/Townhouse,Fast,noho,0.0414888062743985,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,12039,0.0408077676738006,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,spacious,0.0396066296225372,Amenities
+Los Angeles,Condo/Townhouse,Fast,12041,0.0387782731469927,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,northridge,0.0379127166800028,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Fast,nestled,0.0375916429210516,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,hoa,0.0368231380671779,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,recessed,0.0361598803635094,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,12037,0.0361431998534405,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,youre,0.0340605874909145,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,elfa,0.0320914533718463,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,remodeled,0.0301246718175715,Condition/Quality
+Los Angeles,Condo/Townhouse,Fast,freeway,0.0299860803789863,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Fast,garage,0.029367326131434,Property Features
+Los Angeles,Condo/Townhouse,Fast,canoga,0.0293635764957978,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,lmu,0.0275739152925436,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,reglazed,0.0273946045977835,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,flooring,0.0273312002475435,Property Features
+Los Angeles,Condo/Townhouse,Fast,wyngate,0.0269190082022,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,youll,0.0266715629652003,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,culdesac,0.0242415384260217,Amenities
+Los Angeles,Condo/Townhouse,Fast,unwind,0.0241202469400468,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,pedros,0.0231402371339932,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,lacma,0.0222771914430358,Amenities
+Los Angeles,Condo/Townhouse,Fast,8309,0.0222221174418847,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,bathroom,0.0220386935357169,Property Features
+Los Angeles,Condo/Townhouse,Fast,walkable,0.0215959897040017,Transit/Accessibility
+Los Angeles,Condo/Townhouse,Fast,laminate,0.0215484089417131,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,joes,0.0214239887075584,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,showcasing,0.0208920804157509,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,costco,0.0207975905137101,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,condo,0.0207085010781848,Specific Locations
+Los Angeles,Condo/Townhouse,Fast,ventura,0.0205271294910659,Specific Locations
+Chicago,Condo/Townhouse,Slow,doorperson,0.1902580028713699,Property Features
+Chicago,Condo/Townhouse,Slow,streeterville,0.1685397364745607,Location/Neighborhood
+Chicago,Condo/Townhouse,Slow,scavolini,0.0924497536635054,Specific Locations
+Chicago,Condo/Townhouse,Slow,sundeck,0.0547291004083708,Property Features
+Chicago,Condo/Townhouse,Slow,kallista,0.048267957154531,Specific Locations
+Chicago,Condo/Townhouse,Slow,ohare,0.0437688092497918,Specific Locations
+Chicago,Condo/Townhouse,Slow,rohes,0.041812100398531,Specific Locations
+Chicago,Condo/Townhouse,Slow,playlot,0.0413802946521238,Specific Locations
+Chicago,Condo/Townhouse,Slow,amenity,0.0410986816260016,Specific Locations
+Chicago,Condo/Townhouse,Slow,pedway,0.0393749485239768,Location/Neighborhood
+Chicago,Condo/Townhouse,Slow,onsite,0.0349165809120554,Specific Locations
+Chicago,Condo/Townhouse,Slow,eastside,0.0347495287607162,Location/Neighborhood
+Chicago,Condo/Townhouse,Slow,subzero,0.033820586049176,Specific Locations
+Chicago,Condo/Townhouse,Slow,bartelme,0.0297731110378489,Specific Locations
+Chicago,Condo/Townhouse,Slow,walgreens,0.0283081973693634,Outdoor/Views
+Chicago,Condo/Townhouse,Slow,childrens,0.0225968234056846,School/Family
+Chicago,Condo/Townhouse,Slow,kinzie,0.0208975331764282,Specific Locations
+Chicago,Condo/Townhouse,Slow,lakeshore,0.0206649824581329,Specific Locations
+Chicago,Condo/Townhouse,Slow,tuckpointing,0.0203489279293377,Specific Locations
+Chicago,Condo/Townhouse,Slow,mudroom,0.0203300016158465,Property Features
+Chicago,Condo/Townhouse,Slow,townhomes,0.0196874917431107,Specific Locations
+Chicago,Condo/Townhouse,Slow,gaggenau,0.0191284730321173,Specific Locations
+Chicago,Condo/Townhouse,Slow,foyer,0.0180050539366412,Specific Locations
+Chicago,Condo/Townhouse,Slow,rockwool,0.0174063194242485,Specific Locations
+Chicago,Condo/Townhouse,Slow,dusable,0.0162200214587996,Specific Locations
+Chicago,Condo/Townhouse,Slow,elfa,0.0160354520153967,Specific Locations
+Chicago,Condo/Townhouse,Slow,wifi,0.0160313303245929,Amenities
+Chicago,Condo/Townhouse,Slow,doorman,0.0160089421208441,Property Features
+Chicago,Condo/Townhouse,Slow,corian,0.0156192950381826,Specific Locations
+Chicago,Condo/Townhouse,Slow,waitlist,0.0151881769806859,Specific Locations
+Chicago,Condo/Townhouse,Slow,iconic,0.0147814715850006,Specific Locations
+Chicago,Condo/Townhouse,Slow,firework,0.0145392755110299,Specific Locations
+Chicago,Condo/Townhouse,Slow,4537,0.0145217740165252,Specific Locations
+Chicago,Condo/Townhouse,Slow,frameless,0.0144829777340491,Specific Locations
+Chicago,Condo/Townhouse,Slow,bidet,0.0141913898432283,Specific Locations
+Chicago,Condo/Townhouse,Slow,flooring,0.0140568424480763,Property Features
+Chicago,Condo/Townhouse,Slow,spa,0.0140065931541099,Amenities
+Chicago,Condo/Townhouse,Slow,rooftop,0.013303109930757,Outdoor/Views
+Chicago,Condo/Townhouse,Slow,kenwood,0.0130961188075602,Specific Locations
+Chicago,Condo/Townhouse,Slow,hookup,0.0129412491528657,Specific Locations
+Chicago,Condo/Townhouse,Slow,2019,0.0128796706100958,Specific Locations
+Chicago,Condo/Townhouse,Slow,valet,0.0125405726542316,Specific Locations
+Chicago,Condo/Townhouse,Slow,arthington,0.012318035247061,Specific Locations
+Chicago,Condo/Townhouse,Slow,homebuyer,0.0118976161949383,Specific Locations
+Chicago,Condo/Townhouse,Slow,starbucks,0.0116355417249834,Specific Locations
+Chicago,Condo/Townhouse,Slow,southbank,0.0114640102202791,Location/Neighborhood
+Chicago,Condo/Townhouse,Slow,cityscape,0.0112529662485995,Specific Locations
+Chicago,Condo/Townhouse,Slow,condominium,0.0110738877070158,Specific Locations
+Chicago,Condo/Townhouse,Slow,breathtaking,0.0108353420140447,Specific Locations
+Chicago,Condo/Townhouse,Slow,nightstands,0.0107889341787031,Specific Locations
+New York,Condo/Townhouse,Slow,waitlisted,0.103141901992962,Specific Locations
+New York,Condo/Townhouse,Slow,brizo,0.1015343396691266,Specific Locations
+New York,Condo/Townhouse,Slow,scavolini,0.0920571296698222,Specific Locations
+New York,Condo/Townhouse,Slow,sivec,0.0809774235432988,Specific Locations
+New York,Condo/Townhouse,Slow,youll,0.0800090559601284,Specific Locations
+New York,Condo/Townhouse,Slow,heatherwick,0.0776148680291963,Specific Locations
+New York,Condo/Townhouse,Slow,bertazzoni,0.0684473550870285,Specific Locations
+New York,Condo/Townhouse,Slow,newform,0.0675393381314648,Condition/Quality
+New York,Condo/Townhouse,Slow,pistilli,0.0624862982766787,Specific Locations
+New York,Condo/Townhouse,Slow,santalucia,0.0607455536209335,Specific Locations
+New York,Condo/Townhouse,Slow,gaggenau,0.0572180115968092,Specific Locations
+New York,Condo/Townhouse,Slow,landmarked,0.0566704516384121,Specific Locations
+New York,Condo/Townhouse,Slow,nycs,0.0553847617013351,Specific Locations
+New York,Condo/Townhouse,Slow,waitlist,0.0455014000723488,Specific Locations
+New York,Condo/Townhouse,Slow,coop,0.0441015866062523,Specific Locations
+New York,Condo/Townhouse,Slow,poggenpohl,0.0430131120016896,Specific Locations
+New York,Condo/Townhouse,Slow,subletting,0.0419852530519568,Specific Locations
+New York,Condo/Townhouse,Slow,riverdale,0.0416349919686849,Outdoor/Views
+New York,Condo/Townhouse,Slow,kissena,0.0405440478298145,Specific Locations
+New York,Condo/Townhouse,Slow,hdfc,0.0365933152235345,Specific Locations
+New York,Condo/Townhouse,Slow,adjmi,0.0362498893011546,Specific Locations
+New York,Condo/Townhouse,Slow,doorman,0.0360152586424264,Property Features
+New York,Condo/Townhouse,Slow,liebherr,0.0351001018155527,Specific Locations
+New York,Condo/Townhouse,Slow,playroom,0.0345939961293202,Property Features
+New York,Condo/Townhouse,Slow,cabinetry,0.0327538558293813,Specific Locations
+New York,Condo/Townhouse,Slow,nightstands,0.0323627633796744,Specific Locations
+New York,Condo/Townhouse,Slow,kallista,0.0321743091044621,Specific Locations
+New York,Condo/Townhouse,Slow,wifi,0.0320254665408061,Amenities
+New York,Condo/Townhouse,Slow,grohe,0.0316224467173088,Specific Locations
+New York,Condo/Townhouse,Slow,wenge,0.0314190439455793,Specific Locations
+New York,Condo/Townhouse,Slow,windowed,0.0296021093726172,Property Features
+New York,Condo/Townhouse,Slow,reglazed,0.027394499071224,Specific Locations
+New York,Condo/Townhouse,Slow,rego,0.0272419898059282,Specific Locations
+New York,Condo/Townhouse,Slow,richmondtown,0.0272264463677817,Specific Locations
+New York,Condo/Townhouse,Slow,flatiron,0.0272103427918108,Specific Locations
+New York,Condo/Townhouse,Slow,levain,0.0238770807176219,Specific Locations
+New York,Condo/Townhouse,Slow,conditioner,0.0230104402690123,Specific Locations
+New York,Condo/Townhouse,Slow,cristallo,0.0228451268855684,Specific Locations
+New York,Condo/Townhouse,Slow,keyless,0.0228010220926098,Specific Locations
+New York,Condo/Townhouse,Slow,gifting,0.0224254885530213,Specific Locations
+New York,Condo/Townhouse,Slow,daikin,0.0221864073153074,Specific Locations
+New York,Condo/Townhouse,Slow,bqe,0.0219210617836439,Specific Locations
+New York,Condo/Townhouse,Slow,apartment,0.0211356258026855,Specific Locations
+New York,Condo/Townhouse,Slow,6632,0.0210325834995953,Specific Locations
+New York,Condo/Townhouse,Slow,grigio,0.0200724508705974,Specific Locations
+New York,Condo/Townhouse,Slow,dinette,0.0198061774466885,Specific Locations
+New York,Condo/Townhouse,Slow,ensuite,0.0196677974669735,Specific Locations
+New York,Condo/Townhouse,Slow,gym,0.0193479250483373,Amenities
+New York,Condo/Townhouse,Slow,fridge,0.0191473208819107,Specific Locations
+New York,Condo/Townhouse,Slow,briarwood,0.0188817066433372,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,centerpointe,0.1961131367808832,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,cinemark,0.1347417611579494,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,brentwoods,0.1327114505480857,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,dtla,0.1160084758321655,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,gaggenau,0.0956423466938378,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,glenhurst,0.073821287274898,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,teramachi,0.0662085283455139,Amenities
+Los Angeles,Condo/Townhouse,Slow,adu,0.0571857664118457,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,walkability,0.0559017183818902,Transit/Accessibility
+Los Angeles,Condo/Townhouse,Slow,90044,0.0535287979846931,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,westholme,0.0493640015499212,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Slow,bertazzoni,0.0457150747498886,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,lutron,0.0404852139087746,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,concierge,0.039089659076186,Amenities
+Los Angeles,Condo/Townhouse,Slow,overbid,0.0369907424779147,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,rooftop,0.0369581903645699,Outdoor/Views
+Los Angeles,Condo/Townhouse,Slow,wilshire,0.0364488159605848,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,playa,0.0338244704541532,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,triplex,0.0332826579796607,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,beachport,0.0331133776501871,Amenities
+Los Angeles,Condo/Townhouse,Slow,ralphs,0.0315970623916914,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,mountaingate,0.0308460180184978,Outdoor/Views
+Los Angeles,Condo/Townhouse,Slow,meadowvale,0.0303939488116756,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,westwood,0.0261088303261405,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Slow,tjh,0.0260776808293381,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,miele,0.0250916693839582,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,loft,0.0250667042306206,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,8535,0.0247272815820496,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,cooktop,0.0242403909309724,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,lausd,0.0241579275119926,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,colbath,0.023103354521209,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,subzero,0.0215241751138592,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,contigency,0.0214744711737754,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,8707,0.0206285377492819,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,brentwood,0.0202706355130505,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,boutique,0.020146057684492,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,treetop,0.020075853039672,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,sundeck,0.0199147851406881,Property Features
+Los Angeles,Condo/Townhouse,Slow,onsite,0.019641596703737,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,valet,0.018812345912268,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,bbqs,0.018321720206866,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,90012,0.018282341397784,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,mirabella,0.0174014437502691,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,gym,0.0163758867605646,Amenities
+Los Angeles,Condo/Townhouse,Slow,duplex,0.0161273878081955,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,bottega,0.0158436494578421,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,penthouse,0.0157471366487817,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,westside,0.0154156065717606,Location/Neighborhood
+Los Angeles,Condo/Townhouse,Slow,adus,0.0149722179547603,Specific Locations
+Los Angeles,Condo/Townhouse,Slow,doorman,0.0146764585592163,Property Features
